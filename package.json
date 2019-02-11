@@ -1,0 +1,22 @@
+{
+  "name": "landing_page",
+  "version": "1.0.0",
+  "description": "Landing Page hecha en wordpress",
+  "main": "/wp-content/themes/simplelanding/index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelToxicity/wordpress_simple_page.git"
+  },
+  "keywords": [
+    "Angel"
+  ],
+  "author": "Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelToxicity/wordpress_simple_page/issues"
+  },
+  "homepage": "https://github.com/angelToxicity/wordpress_simple_page#readme"
+}
