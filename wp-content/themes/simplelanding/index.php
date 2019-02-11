@@ -65,7 +65,7 @@
             <div class="col-sm-12 col-md-3 col-lg-3 miestilo3" style="margin-bottom: 2rem">
                 <img src="wp-content/themes/simplelanding/images/nubes.jpeg" width="130px" height="180px">
             </div>
-            <div class="miestilo col-sm-12 col-md-9 col-lg-9" style="margin-bottom: 2rem; text-align: center ">
+            <div class="miestilo col-sm-12 col-md-9 col-lg-9 miestilo" style="margin-bottom: 2rem;">
                 <b style="font-family: Roboto; font-weight: bold;">Melanie Rios</b>
                 <br>
                 in Bussines
