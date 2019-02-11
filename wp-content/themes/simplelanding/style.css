@@ -35,7 +35,7 @@
 }
 
 .testimonios {
-	margin-top:3rem;
+	margin-top:5rem;
 	background: rgb(255, 255, 255);
 	margin-left: auto;
 	margin-right: auto;	
@@ -51,8 +51,12 @@
 	padding-right: 35px !important;
 }
 
-.miestilo, .miestilo3 {
-    text-align: center;
+.miestilo, {
+    text-align: center !important;
+}
+
+.miestilo3 {
+	text-align: center;
 }
 
 .miestilo2 {

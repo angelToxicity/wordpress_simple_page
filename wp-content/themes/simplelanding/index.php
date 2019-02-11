@@ -3,26 +3,25 @@
     wp_head( );
     get_header( );
 ?>
-
 <!-- Sección body -->
 <section class="testimonios col-sm-11">
     <h5 style="margin-bottom: 3rem;">Testimonials</h5>
     <div class="row text-center">
         <div class="col-sm-12 col-md-5 col-lg-4 offset-lg-0 separar_bloques">
             <div>
-                <img width="181px" height="181px" src="wp-content/themes/simplelanding/images/nubes.jpeg" class="rounded-circle">
+                <img class="border border-success rounded-circle" width="181px" height="181px" src="wp-content/themes/simplelanding/images/1.png">
             </div>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore corrupti ipsam autem! Debitis reiciendis suscipit ut iste quia.
         </div>
         <div class="col-sm-12 col-md-5 offset-md-2 col-lg-4 offset-lg-0 separar_bloques">
             <div>
-                <img width="250px" height="181px" src="wp-content/themes/simplelanding/images/nubes.jpeg" >
+                <img class="border border-success" width="280px" height="181px" src="wp-content/themes/simplelanding/images/WordPress-logotype-alternative.png" >
             </div>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore corrupti ipsam autem! Debitis reiciendis suscipit ut iste quia.
         </div>
         <div class="col-sm-12 col-md-12 col-lg-4 offset-lg-0 separar_bloques">
             <div>
-                <img width="181px" height="181px" src="wp-content/themes/simplelanding/images/nubes.jpeg" class="rounded-circle">
+                <img class="border border-success rounded-circle" width="181px" height="181px" src="wp-content/themes/simplelanding/images/3.png">
             </div>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore corrupti ipsam autem! Debitis reiciendis suscipit ut iste quia.
         </div>
@@ -66,7 +65,7 @@
             <div class="col-sm-12 col-md-3 col-lg-3 miestilo3" style="margin-bottom: 2rem">
                 <img src="wp-content/themes/simplelanding/images/nubes.jpeg" width="130px" height="180px">
             </div>
-            <div class="col-sm-12 col-md-9 col-lg-9 miestilo" style="margin-bottom: 2rem">
+            <div class="miestilo col-sm-12 col-md-9 col-lg-9" style="margin-bottom: 2rem; text-align: center ">
                 <b style="font-family: Roboto; font-weight: bold;">Melanie Rios</b>
                 <br>
                 in Bussines
