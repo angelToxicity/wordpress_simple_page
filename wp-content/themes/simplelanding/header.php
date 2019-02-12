@@ -6,7 +6,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             
-            <div class="col-8 collapse navbar-collapse justify-content-end" id="menuP">
+            <div class="col-8 col-sm-12 collapse navbar-collapse justify-content-end" id="menuP">
                 <ul class="navbar-nav ml-auto mr-auto pull-right text-center">
                     <li class="nav-item active col-lg-3">
                         <a class="nav-link" href="#!">Home</a>
